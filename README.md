@@ -1,8 +1,8 @@
 # velocity-quickstart-go
 
 ## Prerequisites
-[Docker](https://docs.docker.com/engine/install/) installed and running
-[Kind](https://kind.sigs.k8s.io/docs/user/quick-start/#installation) installed
+- [Docker](https://docs.docker.com/engine/install/) installed and running
+- [Kind](https://kind.sigs.k8s.io/docs/user/quick-start/#installation) installed
 
 ## Spin up a local cluster
 
